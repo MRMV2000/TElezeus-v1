@@ -60,7 +60,7 @@
 |:-----------------------|
 - <p align="left">Clone Source:
 ```sh
-git clone https://github.com/janlou/AdvanSource && cd AdvanSource
+git clone https://github.com/MRMV2000/TElezeus-v1 && cd AdvanSource
 ```
 - <p align="left">install bot:
 ```sh

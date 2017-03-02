@@ -1,5 +1,5 @@
-<p align="center"> (TELEzeus) 
-<h1 align="left">`[🐲](Telezeusbot with fast speed and high power)</h1>
+<h2 align="center"> (TELEzeus) </h2>
+<h1 align="center"> [🐲](Telezeusbot with fast speed and high power) </h1>
 ***
 <p align="left">Creator: [[ JOIN! ]](https://t.me/umbrage)
 <p align="left">Channel: [[ JOIN! ]](https://telegram.me/telezus_team)
